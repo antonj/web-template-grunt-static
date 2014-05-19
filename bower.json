@@ -1,0 +1,10 @@
+{
+    "name": "web-template-grunt-static",
+    "version": "0.0.0",
+    "dependencies": {
+        "viewpager": "git@github.com:antonj/viewpager.js.git"
+    },
+    "devDependencies": {
+        "qunit": "*"
+    }
+}
